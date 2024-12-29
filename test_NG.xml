@@ -4,7 +4,7 @@
         <parameter name="browser" value="chrome"></parameter>
         <classes>
             <!--class name="org.example.Mainmethod"/-->
-            <class name="Orange_Dashboard.BrowserLaunch"></class>
+            <class name="Orange_Dashboard.PunchIn_Punch_out"></class>
         </classes>
     </test>
 
